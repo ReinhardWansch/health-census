@@ -94,3 +94,9 @@ h2 {
     width: 200px;
     height: 100px;
 }
+
+/* Styles from Reinhard Wansch */
+
+.searchCondition, .analysisForm {
+    padding: 1em;
+}
